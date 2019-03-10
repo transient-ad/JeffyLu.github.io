@@ -73,8 +73,8 @@
 				<div class="collapse navbar-collapse" id="custom-collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#home">Home</a></li>
-						<li><a href="#services">Services</a></li>
-                        <li><a href="#portfolio">Blog</a></li>
+						<li><a href="#services">Info</a></li>
+                        <li><a href="#portfolio">ReadMe</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
